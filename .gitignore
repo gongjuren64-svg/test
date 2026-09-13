@@ -1,0 +1,10 @@
+.vs/
+**/Debug/
+**/Release/
+/AirWar/x64/
+*.vcxproj.user
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.tlog
